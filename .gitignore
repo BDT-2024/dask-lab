@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+data/
+data_ex1/
+requirements.txt
+venv/
+.venv
+venv*
+jupyterlab<4.1.6
