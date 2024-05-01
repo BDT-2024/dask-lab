@@ -1,5 +1,5 @@
 mimesis
 gcsfs
 graphviz
-"dask[complete]"
+dask[complete]
 jupyterlab<5
